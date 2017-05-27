@@ -1,9 +1,16 @@
 {
   "apps": [{
-    "serverURL": "",
-    "appId": "",
-    "masterKey": "",
-    "appName": "",
+    "serverURL": "https://ray-wenderlich-parse-tutorial.herokuapp.com/parse",
+    "appId": "rw-parse-tutorial-052220171106",
+    "masterKey": "Marlboro12!3",
+    "appName": "ray-wenderlich-parse-tutorial",
+    "iconName": ""
+  },
+  {
+    "serverURL": "https://makestagram-bcc5160.herokuapp.com/parse",
+    "appId":"makestagram-bcc5160-052220171932",
+    "masterKey": "Marlboro12!3",
+    "appName": "makestagram-bcc5160",
     "iconName": ""
   }],
   "iconsFolder": "icons"
